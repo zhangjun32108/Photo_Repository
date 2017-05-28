@@ -1,2 +1,2 @@
 # Photo_Repository
-This is just a test.
+This is a simple fault tolerant repository for photos.
